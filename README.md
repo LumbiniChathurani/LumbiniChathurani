@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lumbini Chathurani</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
+<p align="center">
+  <img height="200" width="200" src="https://github.com/LumbiniChathurani/LumbiniChathurani/blob/main/Girl%20on%20Computer%20with%20Idea.svg" />
+</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lumbinichathurani&label=Profile%20views&color=0e75b6&style=flat" alt="lumbinichathurani" /> </p>
 
 - 🌱 I’m currently learning **Python**
